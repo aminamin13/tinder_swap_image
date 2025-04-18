@@ -1,16 +1,17 @@
-# tinder_swap_image
+🚀 Tinder Swipe Image Cards
+An elegant Flutter project showcasing a Tinder-style Swipeable Image Cards interface for mobile applications.
 
-A new Flutter project.
+📱 Preview
+Check out the swipe animation in action:
 
-## Getting Started
+<p align="center"> <img src="https://github.com/aminamin13/tinder_swap_image/blob/main/ezgif-5cfaff0400a9af.gif" width="300"/> </p>
+📝 Getting Started
+This project serves as a starting point for building swipeable image cards in Flutter apps — similar to the Tinder card swipe effect.
 
-This project is a starting point for a Flutter application.
+A few resources to help you get started with Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+Lab: Write your first Flutter app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cookbook: Useful Flutter samples
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For additional help, check out the official Flutter documentation, which offers tutorials, examples, and a comprehensive API reference.
